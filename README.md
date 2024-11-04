@@ -17,7 +17,7 @@ Hai, saya **{nama}**! Saya seorang software engineer yang antusias membuat proye
 - Belajar secara publik di [Twitch]({twitch}) atau [website saya]({website}) 📹 ✍🏾
 - Bereksperimen dengan interaksi di [Codepen]({codepen}) 🏓
 - Berbagi pembaruan di [LinkedIn]({linkedin}) 💼
-- Ikuti saya di [Instagram]({instagram}) 📸 ![Instagram](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg)
+- Ikuti saya di [Instagram]({instagram}) 📸 <img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" alt="Instagram" width="48" height="48"/>
 
 ---
 
