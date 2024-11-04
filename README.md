@@ -1,6 +1,7 @@
 def generate_github_profile():
     # Ambil data dasar pengguna
-    nama = input("Masukkan Nama Anda: ")
+    
+    nama = input("Masukkan Nama Anda: samuel ")
     pekerjaan = input("Masukkan Pekerjaan Anda: ")
     bio = input("Tuliskan bio singkat Anda: ")
     project = input("Proyek terbaru Anda: ")
