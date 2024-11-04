@@ -10,7 +10,7 @@ SOSMED
         <img src="https://img.icons8.com/color/48/000000/twitch.png" alt="Twitch" />
     </a>
     <a href="{website}" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" />
+        <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Website" />
     </a>
     <a href="{codepen}" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/codepen.png" alt="Codepen" />
