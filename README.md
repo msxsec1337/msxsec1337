@@ -10,7 +10,7 @@
 
 
 ```css
-#monkindey { 
+monkindey { 
   position: Msxsec1337; 
   height: 178cm; 
   display: boy; 
