@@ -11,9 +11,9 @@
 
 ```css
 monkindey { 
-  position: Msxsec1337; 
-  height: 178cm; 
-  display: boy; 
+  position: MSXSEC; 
+  height: 1773cm; 
+  display: TEAM; 
   background: Tinker Resolver ; 
   color: blue
 }
